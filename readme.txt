@@ -1,4 +1,4 @@
-=== Contact Form ===
+=== Contact Form Email===
 Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags: contact form, email submit form, message form, email subscription 
