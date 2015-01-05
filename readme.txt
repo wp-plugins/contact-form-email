@@ -24,7 +24,15 @@ Easily create a contact form for your Wordpress site.
 
 ###Quick Start Guide
 
-* [Contact form quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/contact-form-plugin-quick-start-guide/)
+* [Contact form quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/special/contact-form-plugin-quick-start-guide2/)
+
+###Why you should use a contact form
+
+If you don't have a contact form on your site now, you may think a contact form is not necessary.  You may think you don't need a contact form because you don't have a lot of visitors to your site.  You may also think a contact form is not necessary because you don't think anyone wants to contact you.
+
+Both of these reasons are wrong assumptions.  You need a contact form on your site.  No matter how little your traffic, you should have a contact form from the moment you start your site.  Real people are coming to your site and they want to contact you.  You need to give them the oppurtunity with a contact form.
+
+The Wordpress Contact Form plugin allows you to collect the basic information your need.  The contact form provides a place for name, email address, subject, and message.
 
 == Installation ==
 
@@ -43,7 +51,7 @@ No.  The plugin does the programming and design.
 
 == Screenshots ==
 
-[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/contact-form-plugin-quick-start-guide/)
+[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/special/contact-form-plugin-quick-start-guide2/)
 
 
 == Changelog ==
