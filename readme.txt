@@ -1,7 +1,7 @@
 === Wordpress Contact Form ===
 Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
-Tags: contact form, email submit form, message form, email subscription 
+Tags: contact form, email submit form, message form, email subscription, attachment, contact, contatc, conact, cnotact, contact button, contact form plugin, contact me, contacts, contacts form plugin, copy, feedback, feedback form, form, insert the shortcode, post feedback, request, send, send copy, send messages, shortcode, text, web-page feedback
 Requires at least: 3.0
 Tested up to: 3.5.1
 Stable tag: 1.0
