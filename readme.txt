@@ -44,9 +44,13 @@ The Wordpress Contact Form plugin allows you to collect the basic information yo
 
 == Frequently Asked Questions ==
 
-= Do I have to know how to program or design? =
+= Do I have to know how to program or design to use the contact form plugin? =
 
-No.  The plugin does the programming and design.
+No.  The contact form plugin does the programming and design.
+
+= Can I send the contact form message to my email address? =
+
+Yes, there is a place on the contact form settings page to enter the email address you want the message sent to.
 
 
 == Screenshots ==
