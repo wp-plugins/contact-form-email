@@ -32,7 +32,11 @@ If you don't have a contact form on your site now, you may think a contact form 
 
 Both of these reasons are wrong assumptions.  You need a contact form on your site.  No matter how little your traffic, you should have a contact form from the moment you start your site.  Real people are coming to your site and they want to contact you.  You need to give them the oppurtunity with a contact form.
 
-The Wordpress Contact Form plugin allows you to collect the basic information your need.  The contact form provides a place for name, email address, subject, and message.
+The Wordpress Contact Form plugin allows you to collect the basic information you need.  The contact form provides a place for name, email address, subject, and message.
+
+You should collect a visitor's name on your contact form because you want to personalize the communications you send back to them.  Personalizing messages can get a better response rate than not personalizing them.
+
+Of course it goes to say that you will collect the visitor's email address on your contact form.  You need the email address to be able to contact them back.
 
 == Installation ==
 
