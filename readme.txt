@@ -14,7 +14,9 @@ Easily create a contact form for your Wordpress site.
 
 Easily create a contact form for your Wordpress site.
 
+###Quick Start Guide
 
+* [Contact form quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/special/contact-form-plugin-quick-start-guide2/)
 
 ###What you get when you use the Wordpress contact form plugin
 
@@ -22,9 +24,6 @@ Easily create a contact form for your Wordpress site.
 *  Create a form with a simple shortcode
 *  [think_contact/]
 
-###Quick Start Guide
-
-* [Contact form quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/special/contact-form-plugin-quick-start-guide2/)
 
 ###Why you should use a contact form
 
@@ -37,6 +36,11 @@ The Wordpress Contact Form plugin allows you to collect the basic information yo
 You should collect a visitor's name on your contact form because you want to personalize the communications you send back to them.  Personalizing messages can get a better response rate than not personalizing them.
 
 Of course it goes to say that you will collect the visitor's email address on your contact form.  You need the email address to be able to contact them back.
+
+###Quick Start Guide
+
+* [Contact form quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/special/contact-form-plugin-quick-start-guide2/)
+
 
 == Installation ==
 
