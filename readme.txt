@@ -1,9 +1,9 @@
-=== Wordpress Contact Form ===
+=== Contact Form ===
 Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags: contact form, email submit form, message form, email subscription, attachment, contact, contatc, conact, cnotact, contact button, contact form plugin, contact me, contacts, contacts form plugin, copy, feedback, feedback form, form, insert the shortcode, post feedback, request, send, send copy, send messages, shortcode, text, web-page feedback
 Requires at least: 3.0
-Tested up to: 3.5.1
+Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -16,7 +16,7 @@ Easily create a contact form for your Wordpress site.
 
 ###Quick Start Guide
 
-* [Contact form quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/special/contact-form-plugin-quick-start-guide2/)
+* [Contact form quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/special/contact-form-plugin-quick-start-guide2/)
 
 ###What you get when you use the Wordpress contact form plugin
 
@@ -39,7 +39,7 @@ Of course it goes to say that you will collect the visitor's email address on yo
 
 ###Quick Start Guide
 
-* [Contact form quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/special/contact-form-plugin-quick-start-guide2/)
+* [Contact form quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/special/contact-form-plugin-quick-start-guide2/)
 
 
 == Installation ==
@@ -60,10 +60,13 @@ No.  The contact form plugin does the programming and design.
 
 Yes, there is a place on the contact form settings page to enter the email address you want the message sent to.
 
+= Does the contact form allow the sender to put a subject? =
+Yes, the contact form allow the sender to pt a subject.
+
 
 == Screenshots ==
 
-[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/special/contact-form-plugin-quick-start-guide2/)
+[See screenshots at thinklandingpages.com](http://www.thinklandingpages.com/special/contact-form-plugin-quick-start-guide2/)
 
 
 == Changelog ==
