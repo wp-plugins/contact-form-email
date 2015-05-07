@@ -49,9 +49,21 @@ class ThinkContactForm{
 		<div class="wrap">
 			<div id="icon-options-general" class="icon32"></div>
 			<h2>Contact Form</h2>
+			<a href="http://www.thinklandingpages.com/landingpage/wordpress-contact-form-plugin/">Upgrade to the Pro Version</a><br >
+			<p>What's in the Pro Version
+			<ul>
+				<li>Unlimited custom fields</li>
+				<li>Professional templates</li>
+				<li>Submit to an email address, Aweber, Mailchimp, where ever you want</li>
+				<li>Custom backgrounds</li>
+				<li>Professional skins</li>
+				<li>Custom color schemes</li>
+				<li>Place anywhere on your site</li>
+				<li>And much more...</li>
+			</ul>
 			
 			<h3>Contact forms available in this version</h3>
-			<p>Create this button by placing the shortcode tag <code>[think_contact/]</code> on your page or post</p>	
+			<p>Create this contact form by placing the shortcode tag <code>[think_contact/]</code> on your page or post</p>	
 			<?php $this->think_contact_stylesheet(); ?>			
 			
 			<?php 
@@ -60,6 +72,7 @@ class ThinkContactForm{
 			// Output your settings form
 			$this->thinkContactForm->settings(); 
 			?>
+			<a href="http://www.thinklandingpages.com/landingpage/wordpress-contact-form-plugin/">Upgrade to the Pro Version</a><br >
 			
 		</div>
 		<?php
