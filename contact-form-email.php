@@ -49,6 +49,9 @@ class ThinkContactForm{
 		<div class="wrap">
 			<div id="icon-options-general" class="icon32"></div>
 			<h2>Contact Form</h2>
+			<?php
+			$this->thinkContactForm->settings(); 
+			?>
 			<a href="http://www.thinklandingpages.com/landingpage/wordpress-contact-form-plugin/">Upgrade to the Pro Version</a><br >
 			<p>What's in the Pro Version
 			<ul>
@@ -59,6 +62,7 @@ class ThinkContactForm{
 				<li>Professional skins</li>
 				<li>Custom color schemes</li>
 				<li>Place anywhere on your site</li>
+				<li>Captcha</li>
 				<li>And much more...</li>
 			</ul>
 			
@@ -70,7 +74,7 @@ class ThinkContactForm{
 			//$this->think_contact_shortcode();
 			echo do_shortcode('[think_contact/]');
 			// Output your settings form
-			$this->thinkContactForm->settings(); 
+			//$this->thinkContactForm->settings(); 
 			?>
 			<a href="http://www.thinklandingpages.com/landingpage/wordpress-contact-form-plugin/">Upgrade to the Pro Version</a><br >
 			
