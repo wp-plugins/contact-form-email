@@ -15,7 +15,7 @@ Easily create a contact form for your Wordpress site.
 Easily create a contact form for your Wordpress site.
 
 
-* [Upgrade to the Pro Version](http://www.thinklandingpages.com/landingpage/wordpress-contact-form-plugin/)
+* [Upgrade to the Pro Version - add captcha for Free](http://www.thinklandingpages.com/landingpage/wordpress-contact-form-plugin/)
 
 ###What you get when you use the Wordpress contact form plugin
 
@@ -36,7 +36,7 @@ You should collect a visitor's name on your contact form because you want to per
 
 Of course it goes to say that you will collect the visitor's email address on your contact form.  You need the email address to be able to contact them back.
 
-* [Upgrade to the Pro Version](http://www.thinklandingpages.com/landingpage/wordpress-contact-form-plugin/)
+* [Upgrade to the Pro Version - add captcha for Free](http://www.thinklandingpages.com/landingpage/wordpress-contact-form-plugin/)
 
 
 == Installation ==

@@ -52,7 +52,7 @@ class ThinkContactForm{
 			<?php
 			$this->thinkContactForm->settings(); 
 			?>
-			<a href="http://www.thinklandingpages.com/landingpage/wordpress-contact-form-plugin/">Upgrade to the Pro Version</a><br >
+			<a href="http://www.thinklandingpages.com/landingpage/wordpress-contact-form-plugin/">Upgrade to the Pro Version - add captcha for Free</a><br >
 			<p>What's in the Pro Version
 			<ul>
 				<li>Unlimited custom fields</li>
@@ -76,7 +76,7 @@ class ThinkContactForm{
 			// Output your settings form
 			//$this->thinkContactForm->settings(); 
 			?>
-			<a href="http://www.thinklandingpages.com/landingpage/wordpress-contact-form-plugin/">Upgrade to the Pro Version</a><br >
+			<a href="http://www.thinklandingpages.com/landingpage/wordpress-contact-form-plugin/">Upgrade to the Pro Version - add captcha for Free</a><br >
 			
 		</div>
 		<?php
