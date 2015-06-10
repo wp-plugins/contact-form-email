@@ -63,7 +63,7 @@ Yes, the contact form allow the sender to pt a subject.
 
 == Screenshots ==
 
-[See screenshots at thinklandingpages.com](http://www.thinklandingpages.com/special/contact-form-plugin-quick-start-guide2/)
+[See screenshots at thinklandingpages.com](http://www.thinklandingpages.com/contact-form-quick-start-guide/)
 
 
 == Changelog ==
